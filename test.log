@@ -1,0 +1,1 @@
+nohup perl unused.index.pl -a test.data/dmel-all-r6.23.gtf -s test.data/wt-1.sam,test.data/wt-2.sam,test.data/mut-1.sam,test.data/mut-2.sam -b test.data/wt-1.bam,test.data/wt-2.bam,test.data/mut-1.bam,test.data/mut-2.bam -n wt-1,wt-2,mut-1,mut-2 -c wt-1,mut-1:wt-1,mut-2:wt-2,mut-1:wt-2,mut-2 -i 15 -r 20 -t 2 -rl 40 > 2019.7.31 &
