@@ -37,4 +37,4 @@ perl unused.index.pl -a test.data/dmel-all-r6.23.gtf \
           -i 15 -r 20 -t 2 -rl 40 > 2019.7.31 &
 ```
 ## Please Cite :
-Liang Li, Zhan Ding, Ting-Lin Pang, Bei Zhang, Chen-Hui Li, An-Min Liang, Yu-Ru Wang, Yu Zhou, Yu-Jie Fan, and Yong-Zhen Xu. **Defective Minor Spliceosomes Induce SMA-associated phenotypes through Sensitive Intron-Containing Neural Genes in Drosophila.** *Nature Communication.* ***In Press***
+Liang Li, Zhan Ding, Ting-Lin Pang, Bei Zhang, Chen-Hui Li, An-Min Liang, Yu-Ru Wang, Yu Zhou, Yu-Jie Fan, and Yong-Zhen Xu. (2020) **Defective Minor Spliceosomes Induce SMA-associated phenotypes through Sensitive Intron-Containing Neural Genes in Drosophila.** *Nature Communication.* 11:5608, doi: 10.1038/s41467-020-19451-z.
