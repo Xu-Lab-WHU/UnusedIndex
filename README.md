@@ -36,5 +36,9 @@ perl unused.index.pl -a test.data/dmel-all-r6.23.gtf \
           -n wt-1,wt-2,mut-1,mut-2 -c wt-1,mut-1:wt-1,mut-2:wt-2,mut-1:wt-2,mut-2 \
           -i 15 -r 20 -t 2 -rl 40 > 2019.7.31 &
 ```
+
+## Output :
+Running tmp file can find in ***design.dot.library/library.results/*** directoy.
+
 ## Please Cite :
 Liang Li, Zhan Ding, Ting-Lin Pang, Bei Zhang, Chen-Hui Li, An-Min Liang, Yu-Ru Wang, Yu Zhou, Yu-Jie Fan, and Yong-Zhen Xu. (2020) **Defective Minor Spliceosomes Induce SMA-associated phenotypes through Sensitive Intron-Containing Neural Genes in Drosophila.** *Nature Communication.* 11:5608, doi: 10.1038/s41467-020-19451-z.
